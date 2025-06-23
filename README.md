@@ -23,8 +23,7 @@ The AI uses the **Minimax algorithm** with memoization to efficiently search the
 
 To run the game, use:
 
-```bash
-python [runner.py](http://_vscodecontentref_/0)
+python [runner.py]
 
 ## ⚙️ Requirements
 
