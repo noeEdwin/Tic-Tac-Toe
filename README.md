@@ -34,7 +34,7 @@ python [runner.py](http://_vscodecontentref_/0)
 ## 💾 Installation
 
 1. **Clone the repository:**
-   ```
+   ```bash
    git clone https://github.com/yourusername/tictactoe-minimax.git
    cd tictactoe-minimax
    pip install pygame
