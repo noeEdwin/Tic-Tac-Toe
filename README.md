@@ -23,7 +23,7 @@ The AI uses the **Minimax algorithm** with memoization to efficiently search the
 
 To run the game, use:
 
-python [runner.py]
+python runner.py
 
 ## ⚙️ Requirements
 
