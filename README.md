@@ -35,5 +35,5 @@ python runner.py
 1. **Clone the repository:**
    ```bash
    git clone git@github.com:noeEdwin/Tic-Tac-Toe.git
-   cd tictactoe-minimax
+   cd Tic-Tac-Toe
    pip install pygame
